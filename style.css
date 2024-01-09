@@ -1,0 +1,27 @@
+body{
+    background-color: #AEDEFC ;
+}
+
+h1{
+    color: #363062;
+    text-align: center;
+}
+
+h2{
+    color: #190482;
+    text-align: right;
+}
+
+.titles{
+    color:brown;
+    text-align: right;
+    background-color: #EADBC8;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 35px;
+    border: 5px solid #451952;
+    object-fit:cover;
+}
