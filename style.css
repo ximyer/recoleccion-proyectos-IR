@@ -1,0 +1,19 @@
+html{
+  background-color: #DF0101;
+  font-family, "Alumni Sans Collegiate One";
+}
+
+h1{
+  color: lightblue;
+  text-align: center;
+}
+
+h2{
+  color: orange;
+  text-align: right;
+}
+
+h3{
+  color: green;
+  text-align: left;
+}
