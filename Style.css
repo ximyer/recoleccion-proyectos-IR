@@ -1,0 +1,41 @@
+html {
+  background-color: #FACBEA;
+  font-family: "Averia Sans Libre";
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+  text-align: right;
+}
+
+h3 {
+  color: blue;
+  text-align: left;
+}
+
+.titles {
+  background-color: #b20101;
+  text-align: center;
+  justify-content: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  margin: auto;
+  border: 5px solid #AEDEFC;
+  border-radius: 35px;
+  display: block;
+}
+
+.btn-primary {
+  color: #E5D4FF background-color: #F875AA;
+  border-color: #F875AA;
+}
+}
