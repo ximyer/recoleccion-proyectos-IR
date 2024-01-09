@@ -1,0 +1,22 @@
+body{
+    background-color:#FFE4D6
+}
+
+
+h1{
+    color:blue;
+    text-indent: right;
+} 
+
+.titles{
+    background-color: skyblue;
+    justify-content: center;
+}
+
+img{
+    height: 150px;
+    object-fit:cover;
+    border-radius:35px;
+}
+        
+    
