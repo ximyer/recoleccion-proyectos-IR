@@ -1,0 +1,24 @@
+body{
+  background-color: #BE3144;
+}
+
+h1{
+color: #BE31;
+text-align: center;
+}
+
+h2{
+color:#BE44;
+text-align: right;
+}
+
+.titles{
+background-color: #BH44;
+
+}
+  
+img{
+height:400 px;
+object-fit: cover;
+border-radius: 3
+}
