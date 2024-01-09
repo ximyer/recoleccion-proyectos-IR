@@ -1,0 +1,26 @@
+ body {
+   background-color: #ea173d;
+ }
+
+ h1 {
+   color: #ea1a3d;
+   text-align: center;
+ }
+
+ h2 {
+   color: #ea1a3d;
+   text-align: right;
+ }
+
+ .titles {
+   background-color: #ec93a9;
+   text-align: center;
+ }
+
+ img {
+   width: 300px;
+   height: 300px;
+   margin: 10px;
+   border: 5px solid #ea1b3d;
+   object-fit: cover;
+   border-radius:35px;
