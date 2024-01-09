@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(238, 25, 10);
+}
+
+h1{
+    color:red;
+    justify-content: center;
+}
+
+h2{
+    color:red;
+    text-align: right;
+}
+
+,titles{
+    background-color:aqua
+    justify-content: center;
+}
+
+img{
+    height: 150px;
+    object-fit: cover;
+    border-
+}
