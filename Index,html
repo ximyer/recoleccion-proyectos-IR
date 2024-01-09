@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8>" <head>
+  <link href="style.css" rel="stylesheet" </head>
+  <link href="https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:wght@300&display=swap" rel="stylesheet">
+
+  <head>
+
+  <body>
+
+    <div class="titles">
+      <h1> esto es h1 </h1>
+      <h2> esto es h1 </h2>
+      <h3> esto es h1 </h3>
+      <h4> esto es h1 </h4>
+      <h5> esto es h1 </h5>
+      <h6> esto es h1 </h6>
+    </div>
+
+    <p>Párrafo</p>
+    <p> <B> Párrafo en negritas </B> </p>
+    <p> <i> Párrafo en cursiva </i> </p>
+    <br>
+    <br>
+    <br>
+
+    <p> Párrafo después de 3 Breaks</p>
+
+    <br>
+    <br>
+    <br>
+
+    <h3> Ordered List - Materias</h3>
+    <ol>
+      <li> Matemáticas </li>
+      <li> Química </li>
+      <li> Educación Física</li>
+      <li> Historia</li>
+      <li> Español</li>
+      <li> Física</li>
+    </ol>
+    <br>
+    <br>
+    <br>
+
+    <h3> Unordered List </h3>
+    <ul>
+    </ul>
+
+    </ul>
+    <li> Carnitas </li>
+    <li> Barbacoa </li>
+    <li> Montalayo </li>
+    <li> Tacos de bistec </li>
+    <li> Hamburguesas </li>
+    <li> Pizza </li>
+    </ul>
+    <img src="OLIVIA.jpg">
+
+
+    <br>
+    <br>
+    <br>
+
+    <button type="button"> Click me! </button>
+    <a href="/boton.html" class="btn btn-primary"> Segunda Opción </a>
+
+
+  </body>
+
+</html>
