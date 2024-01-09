@@ -1,0 +1,25 @@
+body{  
+    background-color: #9DB2BF;
+}
+
+h1{  
+    color: red;
+    text-align:center;
+}
+
+h2{
+    color:blue;
+    text-align: right;
+}
+
+.titles{
+    background-color: #FAEAB1;
+    text-align: center;
+}
+
+img¨{ 
+    height: 150px;
+    object-fit: cover;
+    border-radius: 35px;
+    border: 10px solid #7C93C3;
+}
