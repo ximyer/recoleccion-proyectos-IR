@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(145, 161, 156);
+font font-family: Roboto;
+}
+
+h1{
+color:red;
+text-align: center;
+}
+
+h2¨{
+    color:rgb(211, 135, 135);
+    text-align: right;
+}
+
+.titles{
+    background-color: chartreuse;
+
+}
+
+img{
+    border-radius: 30px;
+    border: 8px; solid #89CFF3
+    object-fit:cover;
+    height: 150px;
+}
