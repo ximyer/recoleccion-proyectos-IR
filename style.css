@@ -1,0 +1,26 @@
+html{
+    background-color:#DED0B6;
+    font-family:'Dancing Script'
+}
+
+h1{
+    color:#F875AA;
+    text-align: center;
+}
+
+h2{
+    color:#F875AA;
+    text-align: center;
+}
+
+.titles{
+    background-color: #F1B4BB;
+
+
+
+img{
+border-radius:30px;
+border: 8px pink;
+    object-fit: cover;
+    height: 200px;
+}
