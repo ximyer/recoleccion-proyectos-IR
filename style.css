@@ -1,0 +1,28 @@
+body {
+  background-color: #CDF5FD ;
+}
+
+h1 {
+  color: orangered;
+  text-align: center;
+}
+
+h2 {
+  color: darkred;
+  text-align: right;
+}
+
+.titles {
+  background-color: #A0E9FF;
+  text-align. center;
+
+}
+
+img {
+  width: 250px;
+  height: 410px;
+  margin: 10px object-fit: cover;
+  border: 5px solid #1F1717;
+  border-radius: 35px;
+  object-fit: cover;
+}
