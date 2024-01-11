@@ -1,0 +1,26 @@
+html{
+    background-color:#7752FE;
+    font-family:"EB garamond";
+}
+
+h1{
+    color: #E7BCDE;
+    text-align:center;
+}
+
+h2{
+    color:#E5D4FF;
+    text-align:center;
+}
+
+.titles{
+    background-color:darkorchid;
+    border-radius:30px;
+}
+
+img{
+    border-radius:30px;
+    border: 8px solid #FED9ED;
+    object-fit:cover;
+    height: 200px;
+}
