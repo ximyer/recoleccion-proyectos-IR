@@ -1,0 +1,26 @@
+html{
+    background-color: #FED9ED;
+    font-family: 'Roboto';
+}
+
+h1{
+    color: #67729D;
+    text-align: center;
+}
+
+h2{
+    color: #662549;
+    text-align: right;
+}
+
+.titles{
+    background-color:#FFE4D6;
+    border-radius: 35px;
+}
+
+img{
+    border-radius:30px;
+    border: 8px solid #99627A;
+    object-fit:cover;
+    height: 200px;
+}
