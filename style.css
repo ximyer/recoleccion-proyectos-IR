@@ -1,0 +1,25 @@
+html{
+    background-color: #FFFB73;
+    font-family: "Square" ;
+}
+
+h1{
+    color: #B15EFF;
+    text-align: center;
+}
+h2{
+    color: #3D30A2;
+    text-align: right;
+}
+
+.titles{
+    background-color: #B31312;
+    border-radius: 35px;
+}
+
+img{
+    border-radius: 30px;
+    border: 8px solid #F8FFD2;
+    object-fit:cover;
+    height: 200px;
+}
