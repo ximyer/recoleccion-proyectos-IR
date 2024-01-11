@@ -1,0 +1,25 @@
+html{
+    background-color: #b0a0cf;
+    font-family:"Rubik bubbles";
+}
+
+h1{
+    color: #ED9ED6;
+    text-align:center;
+}
+
+h2{
+    color: #672c8a;
+    text-align: right;
+}
+
+.tittles{
+    background-color: #0a3852;
+    border-radius: 35px;
+}
+
+img{
+    border-radius: 30px;
+    border: 8px solid #ED9ED6 
+    
+}
