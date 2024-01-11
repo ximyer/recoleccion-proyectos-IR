@@ -1,0 +1,26 @@
+body{
+  background-color: #F4E869;
+  }
+
+h1{
+  color: red;
+  text-align: center;
+}
+
+h2{
+  color: teal;
+  text-align: right;
+}
+
+.titles {
+  background-color: #00A9FF;
+text-align: center;
+} 
+
+img{
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid #0C356A;
+  border-radius: 35px;
+  } 
