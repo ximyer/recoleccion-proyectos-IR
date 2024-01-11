@@ -1,0 +1,26 @@
+html{
+    background-color: #3a76b6;
+    font-family: 'duplay start'
+}
+
+h1{
+    color:#994D1C;
+    text-align: center;
+}
+
+h2{
+    color:#F4BF96;
+    text-align: right;
+} 
+
+.titles{
+    background-color:#005B41;
+    border-radius: 30px;
+}
+
+img{
+    border-radius:30px;
+    border: 8px solid #FDF7E4;
+    object-fit: 200px;
+    }
+
