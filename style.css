@@ -1,0 +1,28 @@
+html{  
+    background-color:#E0F4FF;
+    font-family:;
+}
+
+h1{
+    color:#2D9596;
+    text-align: center;
+    font-family:<link href="https://fonts.googleapis.com/css2?family=Agbalumo&family=EB+Garamond&family=Ephesis&display=swap" rel="stylesheet">
+
+}
+
+h2{
+    color:#265073;
+    text-align:right;
+}
+
+.titles{
+    background-color:#9AD0C2;
+}
+
+img{
+    border-radius:30px;
+    border: 8px solid #8ACDD7;
+    object-fit: cover;
+    height: 200px;
+}
+
