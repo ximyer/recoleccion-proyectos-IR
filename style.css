@@ -1,0 +1,25 @@
+html{
+    background-color: #EFB495;
+    font-family: 'Barlow Condensed';
+}
+
+h1{
+    color: #9EDDFF;
+    text-align: center;
+}
+
+h2{
+    color: #419197;
+    text-align: right;
+}
+
+.titles{
+    background-color: #31304D;
+}
+
+img{
+    border-radius:35px;
+    border: 8px solid #4ec594;
+    object-fit:cover;
+    height: 200px;
+}
