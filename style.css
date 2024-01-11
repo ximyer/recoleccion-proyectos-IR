@@ -1,0 +1,25 @@
+html{
+    background-color:#FED9ED;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:left;
+}
+h1{
+    color: #E7BCDE;   
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+}
+h2{
+    color: #BB9CC0;
+    text-align: left;
+    font-family: cursive;
+} 
+.titles{
+    background-color:#67729D;  
+    text-align: left;
+    font-family: cursive; 
+}
+    img{
+        border-radius: 30px;
+        border: 8px solid #b296ff;
+        text-align: left;
+    }
